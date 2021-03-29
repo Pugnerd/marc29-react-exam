@@ -1,0 +1,50 @@
+[
+	{
+		"title": "A remény rabjai",
+		"IMDb-rank": "1",
+		"genre": "drama",
+		"release year": 1994,
+		"IMDb-rating": 9.2,
+		"Oscar awards number": 0
+	},
+	{
+		"title": "A keresztapa",
+		"IMDb-rank": "2",
+		"genre": "crime",
+		"release year": 1972,
+		"IMDb-rating": 9.1,
+		"Oscar awards number": 3
+	},
+	{
+		"title": "A keresztapa II",
+		"IMDb-rank": "3",
+		"genre": "crime",
+		"release year": 1974,
+		"IMDb-rating": 9.0,
+		"Oscar awards number": 6
+	},
+	{
+		"title": "A sötét lovag",
+		"IMDB-rank": "4",
+		"genre": "action",
+		"release year": 2008,
+		"IMDb-rating": 9.0,
+		"Oscar awards number": 2
+	},
+	{
+		"title": "Tizenkét dühös ember",
+		"IMDb-rank": "5",
+		"genre": "crime",
+		"release year": 1957,
+		"IMDb-rating": 8.9,
+		"Oscar awards number": 0
+	},
+	{
+		"title": "Schindler listája",
+		"IMDb-rank": "6",
+		"genre": "biography",
+		"release year": 1993,
+		"IMDb-rating": 8.9,
+		"Oscar awards number": 7
+	}
+]
