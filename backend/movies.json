@@ -1,50 +1,137 @@
 [
 	{
 		"title": "A remény rabjai",
-		"IMDb-rank": "1",
-		"genre": "drama",
-		"release year": 1994,
-		"IMDb-rating": 9.2,
-		"Oscar awards number": 0
+		"IMDbrank": "1",
+		"genre": "Drama",
+		"releaseyear": 1994,
+		"IMDbrating": 9.2,
+		"OscarAwardsNumber": 0,
+		"isOscared": false
 	},
 	{
 		"title": "A keresztapa",
-		"IMDb-rank": "2",
-		"genre": "crime",
-		"release year": 1972,
-		"IMDb-rating": 9.1,
-		"Oscar awards number": 3
+		"IMDbrank": "2",
+		"genre": "Crime",
+		"releaseyear": 1972,
+		"IMDbrating": 9.1,
+		"OscarAwardsNumber": 3,
+		"isOscared": true
 	},
 	{
 		"title": "A keresztapa II",
-		"IMDb-rank": "3",
-		"genre": "crime",
-		"release year": 1974,
-		"IMDb-rating": 9.0,
-		"Oscar awards number": 6
+		"IMDbrank": "3",
+		"genre": "Crime",
+		"releaseyear": 1974,
+		"IMDbrating": 9.0,
+		"OscarAwardsNumber": 6,
+		"isOscared": true
 	},
 	{
 		"title": "A sötét lovag",
-		"IMDB-rank": "4",
-		"genre": "action",
-		"release year": 2008,
-		"IMDb-rating": 9.0,
-		"Oscar awards number": 2
+		"IMDbrank": "4",
+		"genre": "Action",
+		"releaseyear": 2008,
+		"IMDbrating": 9.0,
+		"OscarAwardsNumber": 2,
+		"isOscared": true
 	},
 	{
 		"title": "Tizenkét dühös ember",
-		"IMDb-rank": "5",
-		"genre": "crime",
-		"release year": 1957,
-		"IMDb-rating": 8.9,
-		"Oscar awards number": 0
+		"IMDbrank": "5",
+		"genre": "Crime",
+		"releaseyear": 1957,
+		"IMDbrating": 8.9,
+		"OscarAwardsNumber": 0,
+		"isOscared": false
 	},
 	{
 		"title": "Schindler listája",
-		"IMDb-rank": "6",
-		"genre": "biography",
-		"release year": 1993,
-		"IMDb-rating": 8.9,
-		"Oscar awards number": 7
+		"IMDbrank": "6",
+		"genre": "Biography",
+		"releaseyear": 1993,
+		"IMDbrating": 8.9,
+		"OscarAwardsNumber": 7,
+		"isOscared": true
+	},
+	{
+		"title": "A Gyűrűk Ura: A király visszatér",
+		"IMDbrank": "7",
+		"genre": "Action",
+		"releaseyear": 2003,
+		"IMDbrating": 8.9,
+		"OscarAwardsNumber": 11,
+		"isOscared": true
+	},
+	{
+		"title": "Ponyvaregény",
+		"IMDbrank": "8",
+		"genre": "Crime",
+		"releaseyear": 1994,
+		"IMDbrating": 8.9,
+		"OscarAwardsNumber": 1,
+		"isOscared": true
+	},
+	{
+		"title": "A Jó, a Rossz és a Csúf",
+		"IMDbrank": "9",
+		"genre": "Western",
+		"releaseyear": 1966,
+		"IMDbrating": 8.8,
+		"OscarAwardsNumber": 0,
+		"isOscared": false
+	},
+	{
+		"title": "A Gyűrűk Ura: A gyűrű szövetsége",
+		"IMDbrank": "10",
+		"genre": "Action",
+		"releaseyear": 2001,
+		"IMDbrating": 8.8,
+		"OscarAwardsNumber": 4,
+		"isOscared": true
+	},
+	{
+		"title": "Harcosok klubja",
+		"IMDbrank": "11",
+		"genre": "Drama",
+		"releaseyear": 1999,
+		"IMDbrating": 8.8,
+		"OscarAwardsNumber": 0,
+		"isOscared": false
+	},
+	{
+		"title": "Forrest Gump",
+		"IMDbrank": "12",
+		"genre": "Drama",
+		"releaseyear": 1994,
+		"IMDbrating": 8.8,
+		"OscarAwardsNumber": 6,
+		"isOscared": true
+	},
+	{
+		"title": "Eredet",
+		"IMDbrank": "13",
+		"genre": "Action",
+		"releaseyear": 2010,
+		"IMDbrating": 8.8,
+		"OscarAwardsNumber": 4,
+		"isOscared": true
+	},
+	{
+		"title": "A Gyűrűk Ura: A két torony",
+		"IMDbrank": "14",
+		"genre": "Action",
+		"releaseyear": 2003,
+		"IMDbrating": 8.7,
+		"OscarAwardsNumber": 2,
+		"isOscared": true
+	},
+	{
+		"title": "Star Wars V. - A Birodalom visszavág",
+		"IMDbrank": "15",
+		"genre": "Action",
+		"releaseyear": 1980,
+		"IMDbrating": 8.7,
+		"OscarAwardsNumber": 1,
+		"isOscared": true
 	}
 ]
